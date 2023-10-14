@@ -1,0 +1,26 @@
+.navbar {
+  margin: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footeer {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+.footeer > div > a {
+  padding-right: 40px;
+  margin-top: auto;
+}
+.home {
+  display: flex;
+  align-items: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.home > div {
+  margin: 30px;
+  width: 400px;
+  font-size: 26px;
+}

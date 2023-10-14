@@ -1,0 +1,41 @@
+html {
+  background-color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.navbar {
+  margin: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footeer {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+.footeer > div > a {
+  padding-right: 40px;
+  margin-top: auto;
+}
+p {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-size: x-large;
+}
+.fotter img {
+  width: 100px;
+}
+.containeer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.section {
+  width: 300px;
+}
+.baslik {
+  text-align: center;
+  font-size: x-large;
+}
